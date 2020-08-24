@@ -1,0 +1,16 @@
+body{
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    line-height: 1.6; /*  sem medida específica indica que a altura das linhas fiquem com 160% do tamanho das fontes. */
+}
+
+.container {
+    margin: 0 auto;
+    width: 960px;    
+}
+
+.place {
+    border-color: #CCC #999 #999 #CCC;
+    border: 1px solid #CCC;
+    margin-top: 20px;
+    padding: 10px;
+}
